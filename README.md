@@ -81,13 +81,13 @@ The directory `app/finreport-model/` is excluded from the repository due to GitH
 
   🔗 [Download FinReport Model](https://drive.google.com/drive/folders/1D0jMFjXZcYKPFukzP3gIb5rVNddZDDgh?usp=sharing)
 
-- After downloading, place the folder directly under the `app/` directory:
+- After downloading, place the folder directly inside the `app/` directory:
 
 ```
 
 finance\_tracker/
 └── app/
-└── finreport-model/          # Place the extracted model here
+│   ├── finreport-model/          # Place the extracted model here
 
 ````
 
